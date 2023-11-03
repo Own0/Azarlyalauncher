@@ -5,9 +5,9 @@
   "description": "Modded Minecraft Launcher",
   "author": "Owno (https://github.com/Own0/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/Own0/AzarlyaLauncher",
+  "homepage": "https://github.com/Own0/Azarlyamc",
   "bugs": {
-    "url": "https://github.com/Own0/AzarlyaLauncher/issues"
+    "url": "https://github.com/Own0/Azarlyamc/issues"
   },
   "private": true,
   "main": "index.js",
