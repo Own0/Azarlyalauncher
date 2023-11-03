@@ -2,7 +2,7 @@ appId: 'azarlyalauncher'
 productName: 'Azarlya Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2023 Own0'
+copyright: 'Copyright © 2023 Owno'
 
 asar: true
 compression: 'maximum'
@@ -40,7 +40,7 @@ mac:
 linux: 
   target: 'AppImage'
   maintainer: 'Owno'
-  vendor: 'oWNO'
+  vendor: 'Owno'
   synopsis: 'Azarlya Minecraft Launcher'
   description: 'Azarlya Launcher.'
   category: 'Game'
