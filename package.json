@@ -1,13 +1,13 @@
 {
   "name": "azarlyalauncher",
-  "version": "1.0.0",
-  "productName": "AzarlyaLauncher",
-  "description": "Modded Minecraft Launcher",
+  "version": "1.0.1",
+  "productName": "Azarlyalauncher",
+  "description": "Azarlya Launcher",
   "author": "Owno (https://github.com/Own0/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/Own0/Azarlyamc",
+  "homepage": "https://github.com/Own0/Azarlyalauncher",
   "bugs": {
-    "url": "https://github.com/Own0/Azarlyamc/issues"
+    "url": "https://github.com/Own0/Azarlyalauncher/issues"
   },
   "private": true,
   "main": "index.js",
