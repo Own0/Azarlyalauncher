@@ -1,8 +1,8 @@
 {
   "name": "azarlyalauncher",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "productName": "Azarlyalauncher",
-  "description": "Azarlya Launcher",
+  "description": "Azarlyalauncher",
   "author": "Owno (https://github.com/Own0/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/Own0/Azarlyalauncher",
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/own0/AzarlyaLauncher.git"
+    "url": "git+https://github.com/own0/Azarlyalauncher.git"
   }
 }

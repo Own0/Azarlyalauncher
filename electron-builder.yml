@@ -1,5 +1,5 @@
-appId: 'azarlyalauncher'
-productName: 'AzarlyaLauncher'
+appId: 'Azarlyalauncher'
+productName: 'Azarlyalauncher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2023 Owno'
@@ -39,8 +39,8 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Owno'
-  vendor: 'Owno'
+  maintainer: 'Own0'
+  vendor: 'Own0'
   synopsis: 'Azarlya Minecraft Launcher'
   description: 'Azarlya Launcher.'
   category: 'Game'
